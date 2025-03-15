@@ -78,9 +78,14 @@ This Power BI project focuses on analyzing Costco's sales data across multiple y
 - Additional visualizations for deeper financial analysis.
 
 ## Author
-[Tanvir Siddiqui
+Name: 
+Tanvir Siddiqui
+
+Email:
 tanvirsiddiqui62800@gmail.com
-630.402.8436]
+
+Phone:
+630.402.8436
 
 ## License
 This project is intended for educational and analytical purposes only. Unauthorized commercial use is prohibited.
