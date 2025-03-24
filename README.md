@@ -14,7 +14,7 @@
 
 ## Data Sources
 - **CSV and Excel Files**: Historical sales data with multiple years of records.
-
+ 
 ## Data Preparation & Cleaning
 - Removed duplicates to ensure data accuracy.
 - Used delimiters to properly structure the dataset.
