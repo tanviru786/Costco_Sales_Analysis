@@ -34,7 +34,7 @@
 - **Time-based Analysis**: Insights based on yearly, quarterly, and monthly trends.
 - **Simple & Effective Design**: Used a clean color scheme for better readability.
 
-![Dashboard Overview](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Dashboard_Overview.png)
+![Dashboard Overview](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Tool%20Tip.png)
 
 ## Tools & Technologies Used
 - **Microsoft Power BI**: Data visualization and dashboard creation.
