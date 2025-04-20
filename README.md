@@ -20,7 +20,7 @@
 - Formatted date and time fields for consistency.
 - Created profit-related columns for financial analysis.
 
-![Data Cleaning Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png=400)
+![Data Cleaning Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png)
 
 ## Data Modeling
 - Established relationships between different data tables.
