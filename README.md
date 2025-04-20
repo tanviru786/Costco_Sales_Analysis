@@ -21,6 +21,8 @@
 - Created profit-related columns for financial analysis.
 
 ![Data Cleaning Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png)
+<img src="https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png?raw=true" alt="Data Cleaning Stage" width="400"/>
+
 
 ## Data Modeling
 - Established relationships between different data tables.
