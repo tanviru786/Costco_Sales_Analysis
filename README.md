@@ -20,13 +20,13 @@
 - Formatted date and time fields for consistency.
 - Created profit-related columns for financial analysis.
 
-![Data Cleaning Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data_Cleaning.png)
+![Data Cleaning Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png)
 
 ## Data Modeling
 - Established relationships between different data tables.
 - Optimized the data model for efficient analysis.
 
-![Data Modeling Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data_Modeling.png)
+![Data Modeling Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Modeling.png)
 
 ## Dashboard Features
 - **Sales Performance**: Displays revenue and profit trends.
