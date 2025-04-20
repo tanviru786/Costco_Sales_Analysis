@@ -53,7 +53,7 @@
 - **Drill-down Analysis**: View data at different levels, such as year, quarter, and month.
 - **Performance Insights**: Gain a comprehensive view of company results over time.
 
-![Filter Pane Open](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Filter%20Pane%20Open.png)
+![Filter Pane Open](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Filter%20Pane%20Open%20.png)
 
 ## Future Enhancements
 - Integration with real-time data for up-to-date reporting.
