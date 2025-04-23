@@ -22,6 +22,13 @@
 
 ![Data Cleaning Stage](https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png)
 
+<p align="center">
+<img src="https://github.com/tanviru786/Costco_Sales_Analysis/blob/main/Data%20Cleaning.png" alt="Power Query" width="600"/>
+</p>  
+ 
+
+
+
 ## Data Modeling
 - Established relationships between different data tables.
 - Optimized the data model for efficient analysis.
